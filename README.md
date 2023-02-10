@@ -1,4 +1,4 @@
-# Http4s Server with OpenApi Endpoint
+# Http4s Server with an OpenApi Endpoint
 
 To run the application type `sbt run` in the root folder of the project.
 
